@@ -1,5 +1,5 @@
 # Portfolio
-This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills [LIVE HEROKU DEPLOYMENT]()
+This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills https://chelsea-portfolio.herokuapp.com/
 
 # Screenshot:
 ![image](https://user-images.githubusercontent.com/107165303/182538384-ec390b75-34d9-401d-8306-2553170f934a.png)
